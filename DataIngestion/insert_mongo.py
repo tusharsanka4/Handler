@@ -18,10 +18,3 @@ def insert_indicators(data):
         print(f"✅ Inserted {len(data)} indicators into MongoDB")
     else:
         print("⚠️ No data to insert")
-
-
-if __name__ == "__main__":
-    with open("normalized_indicators.json", "r") as f:
-        normalized_data = json.load(f)
-
-    insert_indicators(normalized_data)

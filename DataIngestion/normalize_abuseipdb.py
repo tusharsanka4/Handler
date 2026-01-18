@@ -28,15 +28,3 @@ def normalize(raw_abuseipdbdata):
 
     return normalized
     
-
-if __name__ == "__main__":
-    with open("raw_abuseipdbdata.json", "r") as f:
-        raw_data=json.load(f)
-
-normalized_data = normalize(raw_data)
-
-
-with open("normalized_indicators.json", "w") as f:
-    json.dump(normalized_data,f,indent = 2)
-
-print("Worked!")
