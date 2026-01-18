@@ -1,0 +1,182 @@
+[
+  {
+    "indicator": "45.142.193.122",
+    "type": "ip",
+    "confidence": 100,
+    "country": "NL",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:01+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:01+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "167.99.214.186",
+    "type": "ip",
+    "confidence": 100,
+    "country": "NL",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:01+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:01+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "176.120.22.13",
+    "type": "ip",
+    "confidence": 100,
+    "country": "RU",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:01+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:01+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "206.168.34.133",
+    "type": "ip",
+    "confidence": 100,
+    "country": "US",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:01+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:01+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "47.251.93.125",
+    "type": "ip",
+    "confidence": 100,
+    "country": "US",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:01+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:01+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "134.65.30.157",
+    "type": "ip",
+    "confidence": 100,
+    "country": "BR",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:01+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:01+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "164.92.150.102",
+    "type": "ip",
+    "confidence": 100,
+    "country": "NL",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:01+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:01+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "152.32.133.103",
+    "type": "ip",
+    "confidence": 100,
+    "country": "HK",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:00+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:00+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "103.49.238.251",
+    "type": "ip",
+    "confidence": 100,
+    "country": "ID",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:00+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:00+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  },
+  {
+    "indicator": "45.91.64.6",
+    "type": "ip",
+    "confidence": 100,
+    "country": "RU",
+    "threat_types": [
+      "reported_abuse"
+    ],
+    "sources": [
+      {
+        "name": "AbuseIPDB",
+        "score": 100,
+        "last_seen": "2026-01-18T08:17:00+00:00"
+      }
+    ],
+    "first_seen": "2026-01-18T08:17:00+00:00",
+    "last_updated": "2026-01-18T08:57:15.317010+00:00"
+  }
+]

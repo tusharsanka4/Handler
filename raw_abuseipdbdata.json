@@ -1,0 +1,67 @@
+{
+  "meta": {
+    "generatedAt": "2026-01-18T08:54:57+00:00"
+  },
+  "data": [
+    {
+      "ipAddress": "45.142.193.122",
+      "countryCode": "NL",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:01+00:00"
+    },
+    {
+      "ipAddress": "167.99.214.186",
+      "countryCode": "NL",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:01+00:00"
+    },
+    {
+      "ipAddress": "176.120.22.13",
+      "countryCode": "RU",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:01+00:00"
+    },
+    {
+      "ipAddress": "206.168.34.133",
+      "countryCode": "US",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:01+00:00"
+    },
+    {
+      "ipAddress": "47.251.93.125",
+      "countryCode": "US",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:01+00:00"
+    },
+    {
+      "ipAddress": "134.65.30.157",
+      "countryCode": "BR",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:01+00:00"
+    },
+    {
+      "ipAddress": "164.92.150.102",
+      "countryCode": "NL",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:01+00:00"
+    },
+    {
+      "ipAddress": "152.32.133.103",
+      "countryCode": "HK",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:00+00:00"
+    },
+    {
+      "ipAddress": "103.49.238.251",
+      "countryCode": "ID",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:00+00:00"
+    },
+    {
+      "ipAddress": "45.91.64.6",
+      "countryCode": "RU",
+      "abuseConfidenceScore": 100,
+      "lastReportedAt": "2026-01-18T08:17:00+00:00"
+    }
+  ]
+}
